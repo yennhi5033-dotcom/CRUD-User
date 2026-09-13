@@ -13,7 +13,7 @@ const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:5174",
 
-
+  "https://crud-user-1lmh.onrender.com",
   // Vercel frontend
   "https://fe-task-management-flame.vercel.app",
 ];
