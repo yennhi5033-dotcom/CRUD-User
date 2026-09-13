@@ -15,7 +15,7 @@ const allowedOrigins = [
 
   "https://crud-user-1lmh.onrender.com",
   // Vercel frontend
-  "https://fe-task-management-flame.vercel.app",
+  "https://fe-crud-user.vercel.app/"
 ];
 
 app.use(
